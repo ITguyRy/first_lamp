@@ -1,0 +1,44 @@
+body {
+	background: url("https://i.makeagif.com/media/9-10-2015/8j37d5.gif");
+	font-family: "Bangers";
+}
+.jumbotron {
+	background: #3B7A57;
+	color: white;
+}
+h1 {
+	color: #FFFF33;
+}
+.nav_wrapper ul li{
+	color: 	#ACE5EE;
+	list-style: none;
+	font-size: 20px;
+	display: inline;
+	height: auto;
+	width: auto;
+    padding-top: 2px;
+    padding-right:60px;
+    padding-bottom: 2px;
+    padding-left: 200px;
+
+}
+
+.nav {
+	font-family: 'Bangers';
+	background: url("https://s-media-cache-ak0.pinimg.com/originals/63/dd/d7/63ddd7f601b6c9961e83fc5f45bd67f5.gif");
+	height: 140px;
+	width: auto;
+	margin-top: 100px;
+}
+ul {
+	color: white;
+	font-size: 40px;
+}
+p {
+	color: white;
+	font-size: 40px;
+}
+h4 {
+	color: white;
+	font-size: 40px;
+}

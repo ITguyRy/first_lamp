@@ -1,0 +1,26 @@
+body{
+	background: url(http://66.media.tumblr.com/19ad6762f68d0feadc88808f810cb9f6/tumblr_ne2m4cpjZo1qzp9weo1_1280.jpg);
+
+}
+h1 {
+	font-family: 'Bangers';
+}
+/* This is the CSS for my Container */
+.container{
+	font-family: 'Bangers';
+	color: 	#00C4B0;
+	height: 100px;
+	width:300px;
+	background-color: white;
+	border-style: solid;
+	border-width: 10px
+}
+/* stuff here */
+#area{
+	font-family: 'Bangers'
+	color: #00C4B0;
+	border-style: solid;
+	height: 25px;
+	width: 270px;
+	border-color: purple;
+}
